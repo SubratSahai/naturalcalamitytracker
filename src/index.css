@@ -53,3 +53,7 @@ body {
   margin: 0;
   text-align: center;
 }
+.marker-storm{
+  size:2rem;
+  color:blue;
+}
