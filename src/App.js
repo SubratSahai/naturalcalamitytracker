@@ -2,6 +2,7 @@ import { useState ,useEffect } from "react";
 import Header from "./components/Header";
 import Loader from "./components/Loader";
 import Map from "./components/Maps.js";
+
 function App() {
  let [eventdata,seteventdata]=  useState([]);
  let [loading,setloading]= useState(false);
